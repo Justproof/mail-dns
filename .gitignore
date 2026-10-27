@@ -1,0 +1,12 @@
+# Never commit credentials
+dns-token
+*.token
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Editor noise
+*.swp
+*~
